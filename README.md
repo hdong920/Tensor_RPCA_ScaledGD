@@ -1,6 +1,6 @@
 # Learned Tensor RPCA 
 
-This repository implements the original ScaledGD alogrithm presented in Fast and Provable Tensor Robust Principal Component Analysis via Scaled Gradient Descent \[2\], along with algorithms and experiments described in Deep Unfolded Tensor Robust PCA with Self-supervised Learning \[1\]. 
+This repository implements the original ScaledGD alogrithm presented in [Fast and Provable Tensor Robust Principal Component Analysis via Scaled Gradient Descent](https://arxiv.org/abs/2206.09109) \[2\], along with algorithms and experiments described in [Deep Unfolded Tensor Robust PCA with Self-supervised Learning](https://arxiv.org/abs/2212.11346) \[1\]. 
 The `src` contains all the code while the `outputs` directory contains subdirectories that store outputs of the experiments.
 Example outputs can be found in `outputs`.
 More organization details in the `src` directory below. 
